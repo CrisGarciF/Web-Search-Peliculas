@@ -1,6 +1,6 @@
 # Search Peliculas
 
-Web creada por:
+Web creada con:
 
 -Api TMDB
 
