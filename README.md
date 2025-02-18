@@ -2,11 +2,11 @@
 
 Web creada con:
 
-- Api TMDB
+- Api TMDB.
 
 # React
 
-- UseState
+- UseState.
 
 - Scroll Infinity
 
