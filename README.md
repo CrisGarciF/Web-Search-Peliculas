@@ -8,6 +8,4 @@ Web creada con:
 
 - UseState.
 
-- Scroll Infinity
-
-....
+- Scroll Infinity.
